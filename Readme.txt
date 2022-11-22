@@ -1,6 +1,7 @@
-Thanks for downloading this template!
+This Web Design I using Template from Bootstrap 
+
+Credit for
 
 Template Name: Arsha
-Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
